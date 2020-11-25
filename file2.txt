@@ -1,2 +1,3 @@
 to jest przykładowy tekst
 elo
+elo S2
